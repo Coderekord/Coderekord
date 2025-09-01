@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Arduino, ESP, Web dev...**
 
-- 📫 How to reach me **malik.ahmetbegoviic@gmail.com**
+- 📫 How to reach me **malik.ahmetbegovic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
